@@ -1,0 +1,9 @@
+{
+  "identities": [
+    {
+      "name": "exo",
+      "credentials": [{ "accessKey": "exo", "secretKey": "exo123456" }],
+      "actions": ["Admin", "Read", "Write", "List", "Tagging"]
+    }
+  ]
+}

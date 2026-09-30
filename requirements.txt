@@ -1,0 +1,9 @@
+pytest>=8
+pandas>=2.2
+numpy
+pyarrow>=15
+sqlalchemy>=2.0
+pyspark>=4.0
+boto3
+s3fs>=2025.1
+psycopg[binary]>=3.1
